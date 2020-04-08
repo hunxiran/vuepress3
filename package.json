@@ -1,0 +1,29 @@
+{
+  "name": "vuepress3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunxiran/vuepress3.git"
+  },
+  "keywords": [
+    "vuepress",
+    "and",
+    "travis"
+  ],
+  "author": "hunxiran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hunxiran/vuepress3/issues"
+  },
+  "homepage": "https://github.com/hunxiran/vuepress3#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
