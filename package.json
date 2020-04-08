@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs",
@@ -12,13 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/hunxiran/vuepress3.git"
   },
-  "keywords": [
-    "vuepress",
-    "and",
-    "travis"
-  ],
-  "author": "hunxiran",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/hunxiran/vuepress3/issues"
   },
